@@ -1,0 +1,10 @@
+Intro:
+Hi, I am Puneet Singh, I am basically from India, I completed My bachelors from Jaypee Institute of Information Technology. 
+After Completing my Bachelors I worked for two and half years in Tata Consultancy services out of which initial 6 months I worked on various web technologies such as PHP, Python, Mysql, jQuery. Later, I was promoted to the position of Research Developer in TCS innovation Labs at Delhi, Which is primarily working in the field of Big Data, Data mining, Time Series analysis and Information Retrieval. So, at TCS innovation Labs I basically worked for 2 years on JAVA and related technologies such as Hadoop, Apache Pig etc. 
+Currently, I am pursuing Master of Science at State University of New York at Buffalo. My Masters would complete in December 2014.
+I think this would conclude my introduction, is there any thing specific you want to know about me?
+
+
+Recent project:
+One of the most recent projects I completed was a research project for finding gender of a twitter users using tweets and various other features such as celebrities that person follows. Mostly I used Java and Python for coding and right now in the process of publishing my findings.
+There is one other project which I was really interested in, I completed recently. It was an automatic question answering system, written in Java, using Apache SOLR. It indexed all the Wikipedia documents, and could answer variety of questions such as "How many people live in California" or "Who wrote sense and sensibility"
