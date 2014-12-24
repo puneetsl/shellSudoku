@@ -17,6 +17,7 @@ Features
 * Checking your solution.
 * Saving game for playing later.
 * Creating your own Sudoku problem.
+* Current setup works only in Mac, a small code change would port this to Linux and Windows.
 
 
 Quote
