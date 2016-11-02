@@ -1,7 +1,7 @@
 Screenshot
 ----
 
-![alt tag](http://i.imgur.com/3IcucKK.png)
+![alt tag](http://g.recordit.co/kzmbDjAMN7.gif)
 
 About
 ----
