@@ -1,7 +1,10 @@
 Screenshot
 ----
+![image](https://github.com/puneetsl/shellSudoku/assets/6509604/129d6b08-9277-4b01-ad24-3e5de4092496)
 
-![alt tag](http://g.recordit.co/kzmbDjAMN7.gif)
+![image](https://github.com/puneetsl/shellSudoku/assets/6509604/907f5453-7c41-413a-81bb-b12c6dc92745)
+
+
 
 About
 ----
